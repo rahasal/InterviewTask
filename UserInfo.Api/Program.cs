@@ -15,7 +15,7 @@ namespace UserInfo.Api
     {
         public static void Main(string[] args)
         {
-           CreateWebHostBuilder(args).Build().RunAsync();          
+           CreateWebHostBuilder(args).Build().Run();          
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>

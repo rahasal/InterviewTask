@@ -1,0 +1,15 @@
+2020-12-17 12:49:10.824 +03:30 [INF] Http Request Information:
+Schema:https Host: localhost:5001 Path: /users QueryString:  Request Body: 
+2020-12-17 12:49:13.431 +03:30 [INF] 
+Http Response Information:
+Schema:https Host: localhost:5001 Path: /users QueryString:  Response Body: {"items":[{"id":1,"firstName":"24ss","lastName":"sdfsd","emailAddress":"azade.sdfsdfsdf@gmail.com","password":"sdf","birthDate":"2000-02-12T00:00:00","userType":1,"active":true},{"id":2,"firstName":"azade","lastName":"salehour","emailAddress":"azade.salehpour@gmail.com","password":"1234","birthDate":"2020-12-17T00:00:00","userType":3,"active":true},{"id":6,"firstName":"asd","lastName":"asdas","emailAddress":"gh_4552@gmail.com","password":"12345","birthDate":"2014-12-12T00:00:00","userType":1,"active":true}],"pageIndex":1,"totalPages":1,"totalCount":3,"hasPreviousPage":false,"hasNextPage":false}
+2020-12-17 12:49:13.807 +03:30 [INF] Http Request Information:
+Schema:https Host: localhost:5001 Path: /favicon.ico QueryString:  Request Body: 
+2020-12-17 12:49:13.808 +03:30 [INF] 
+Http Response Information:
+Schema:https Host: localhost:5001 Path: /favicon.ico QueryString:  Response Body: 
+2020-12-17 12:49:17.090 +03:30 [INF] Http Request Information:
+Schema:https Host: localhost:5001 Path: /users QueryString:  Request Body: 
+2020-12-17 12:49:17.305 +03:30 [INF] 
+Http Response Information:
+Schema:https Host: localhost:5001 Path: /users QueryString:  Response Body: {"items":[{"id":1,"firstName":"24ss","lastName":"sdfsd","emailAddress":"azade.sdfsdfsdf@gmail.com","password":"sdf","birthDate":"2000-02-12T00:00:00","userType":1,"active":true},{"id":2,"firstName":"azade","lastName":"salehour","emailAddress":"azade.salehpour@gmail.com","password":"1234","birthDate":"2020-12-17T00:00:00","userType":3,"active":true},{"id":6,"firstName":"asd","lastName":"asdas","emailAddress":"gh_4552@gmail.com","password":"12345","birthDate":"2014-12-12T00:00:00","userType":1,"active":true}],"pageIndex":1,"totalPages":1,"totalCount":3,"hasPreviousPage":false,"hasNextPage":false}
